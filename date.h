@@ -1,8 +1,8 @@
 /*
  * Title:		Date Class Declaration
  * Purpose:		A Class to represent a simple date
- * Author:		Carlos Arias
- * Date:		April 16, 2020
+ * Author:		Hung Tran
+ * Date:		May 04, 2020
  */
 #ifndef SCHOOL_INHERITANCE_DATE_H
 #define SCHOOL_INHERITANCE_DATE_H

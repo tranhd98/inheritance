@@ -1,8 +1,8 @@
 /*
  * Title:		Date Class Method Definition
  * Purpose:		Implementation of all date class methods
- * Author:		Carlos Arias
- * Date:		April 16, 2020
+ * Author:		Hung Tran
+ * Date:		May 04, 2020
  */
 #include "date.h"
 
